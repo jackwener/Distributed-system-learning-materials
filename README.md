@@ -81,13 +81,21 @@
 
 分布式系统 概念与设计 (选读6章以后的章节)
 
+[OSTEP 中文版](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese)
+
+[OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
 ## Website
 
 [知乎：一名分布式存储工程师的技能树是怎样的？](https://www.zhihu.com/question/43687427)
 
 [学习分布式系统需要怎样的知识？](https://www.zhihu.com/question/23645117)
 
+[分布式系统领域有哪些经典论文？](https://www.zhihu.com/question/30026369)
+
 [分布式系统(Distributed System)资料](https://gist.github.com/zjhiphop/c4861a6f586e3fdb2379#file-md)
+
+[知乎圆桌 分布式系统之美](https://www.zhihu.com/roundtable/fenbushixitongzhimei)
 
 [阿莱克西斯：专栏](https://zhuanlan.zhihu.com/p/77677075)
 
@@ -96,3 +104,9 @@
 [PingCAP blog](https://github.com/pingcap/blog-cn)
 
 [从零开始写分布式数据库](https://github.com/ngaut/builddatabase)
+
+[当我们在谈论分布式系统的时候我们在谈论什么](http://blog.ivanyang.me/distributedsystem/2016/03/06/whatwetalkaboutwhenwetalkaboutds)
+
+- 知乎分布式专栏
+  - [分布式点滴](https://www.zhihu.com/column/learn-distributed-system)
+
