@@ -49,7 +49,7 @@
 
 ### Resource Management
 
-- [Apache Hadoop YARN: Yet Another Resource Negotiator](https://www.sics.se/~amir/files/download/dic/2013 - Apache Hadoop YARN: Yet Another Resource Negotiator (SoCC).pdf)
+- [Apache Hadoop YARN: Yet Another Resource Negotiator](https://www.cse.ust.hk/~weiwa/teaching/Fall15-COMP6611B/reading_list/YARN.pdff)
 - [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://www.cs.berkeley.edu/~alig/papers/mesos.pdf)
 
 ### Data Processing
