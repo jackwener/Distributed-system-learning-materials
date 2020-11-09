@@ -10,6 +10,10 @@
 
 [CMU 15-440/640, Spring 2016: Distributed Systems](http://www.andrew.cmu.edu/course/15-440/)
 
+[15-712 Advanced and Distributed Operating Systems](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15712-s12/www/)
+
+[UIUC Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
+
 [港中文 Distributed systems](https://www.bilibili.com/video/BV1L741157c9?from=search&seid=6890255481043111568)
 
 [Cornell Distributed systems](http://www.cs.cornell.edu/courses/cs5414/2018fa/)
@@ -27,6 +31,8 @@
 [Distributed and Parallel Systems | 西雅图华盛顿大学​courses.cs.washington.edu](https://courses.cs.washington.edu/courses/cse552/)
 
 [Distributed and Operating Systems | 麻省大学阿默斯特分校lass.cs.umass.edu](http://lass.cs.umass.edu/~shenoy/courses/spring19/lectures.html)
+
+[university.pingcap.com](https://university.pingcap.com/talent-plan/)
 
 ## Paper
 
@@ -66,3 +72,27 @@
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
   Chinese version [日志：每个软件工程师都应该知道的有关实时数据的统一概念](http://www.oschina.net/translate/log-what-every-software-engineer-should-know-about-real-time-datas-unifying?lang=chs&page=1#)
 - [Kafka: a Distributed Messaging System for Log Processin](http://notes.stephenholiday.com/Kafka.pdf)
+
+## Book
+
+[设计数据密集型应用](https://github.com/Vonng/ddia)
+
+[Distributed systems for fun and profit](http://book.mixu.net/distsys/)
+
+分布式系统 概念与设计 (选读6章以后的章节)
+
+## Website
+
+[知乎：一名分布式存储工程师的技能树是怎样的？](https://www.zhihu.com/question/43687427)
+
+[学习分布式系统需要怎样的知识？](https://www.zhihu.com/question/23645117)
+
+[分布式系统(Distributed System)资料](https://gist.github.com/zjhiphop/c4861a6f586e3fdb2379#file-md)
+
+[阿莱克西斯：专栏](https://zhuanlan.zhihu.com/p/77677075)
+
+[如何评价百度开源的 RPC 框架 brpc？](https://www.zhihu.com/question/65370268/answer/231801580)
+
+[PingCAP blog](https://github.com/pingcap/blog-cn)
+
+[从零开始写分布式数据库](https://github.com/ngaut/builddatabase)
