@@ -47,11 +47,12 @@
 - [PacificA: Replication in Log-Based Distributed Storage Systems](http://research.microsoft.com:8082/pubs/66814/tr-2008-25.pdf)
 - [Finding a needle in Haystack: Facebook’s photo storage](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
 - [Windows Azure Storage: A Highly Available Cloud Storage Service with Strong Consistency](http://www-bcf.usc.edu/~minlanyu/teach/csci599-fall12/papers/11-calder.pdf)
-- Databases
+
+### Databases
 
 - [Spanner: Google’s Globally-Distributed Database](http://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)
 - [Tera - 高性能、可伸缩的结构化数据库](https://github.com/ty4z2008/Qix/blob/master/ds.md)
-- [Facebook TSDB: Gorilla A Fast, Scalable, In-Memory Time Series Database]([http://www.vldb.org/pvldb/vol8/p1816-teller.pdf](https://link.zhihu.com/?target=http%3A//www.vldb.org/pvldb/vol8/p1816-teller.pdf))
+- [Facebook TSDB: Gorilla A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 
 ### Resource Management
 
