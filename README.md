@@ -34,6 +34,16 @@
 
 [university.pingcap.com](https://university.pingcap.com/talent-plan/)
 
+[Cloud Computing Concepts](https://class.coursera.org/cloudcomputing-001), University of Illinois
+
+[CMU: Distributed Systems](http://www.cs.cmu.edu/~dga/15-440/F12/syllabus.html) in Go Programming Language
+
+[Principles of Distributed Computing](http://dcg.ethz.ch/lectures/podc_allstars/)
+
+[Distributed Systems Fall 2015](http://www.andrew.cmu.edu/course/95-702/)
+
+[Introduction to Distributed System Design - Google Code University](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
+
 ## Paper
 
 ### Storage
@@ -85,6 +95,14 @@
 [OSTEP 中文版](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese)
 
 [OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+[Distributed Systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
+
+[Distributed Systems Concepts and Design(Fifth Edition) - George Coulouris](https://azmuri.files.wordpress.com/2013/09/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf)
+
+[Distributed Systems Principles and Paradigms - Andrew Tanenbaum](http://sist.sysu.edu.cn/~wuweig/DCC/DistributedSystemsPrinciplesandParadigms(2nd edition)-2007-Tanenbaum.pdf)
+
+[走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
 
 ## Website
 
