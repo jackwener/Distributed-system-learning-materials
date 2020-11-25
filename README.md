@@ -100,7 +100,7 @@
 
 [Distributed Systems Concepts and Design(Fifth Edition) - George Coulouris](https://azmuri.files.wordpress.com/2013/09/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf)
 
-[Distributed Systems Principles and Paradigms - Andrew Tanenbaum](http://sist.sysu.edu.cn/~wuweig/DCC/DistributedSystemsPrinciplesandParadigms(2nd edition)-2007-Tanenbaum.pdf)
+[Distributed Systems Principles and Paradigms - Andrew Tanenbaum](http://sist.sysu.edu.cn/~wuweig/DCC/DistributedSystemsPrinciplesandParadigms(2nd%20edition)-2007-Tanenbaum.pdf)
 
 [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
 
