@@ -133,5 +133,6 @@
 - 知乎分布式专栏
   - [分布式点滴](https://www.zhihu.com/column/learn-distributed-system)
   - [一周一paper](https://www.zhihu.com/column/one-paper-a-week)
+  - [SmartX 专栏](https://www.zhihu.com/org/smartx-7/posts)
 
 
