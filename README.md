@@ -104,6 +104,12 @@
 
 [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
 
+
+
+## Video
+
+
+
 ## Website
 
 [知乎：一名分布式存储工程师的技能树是怎样的？](https://www.zhihu.com/question/43687427)
@@ -135,5 +141,23 @@
 - 知乎分布式专栏
   - [分布式点滴](https://www.zhihu.com/column/learn-distributed-system)
   - [一周一paper](https://www.zhihu.com/column/one-paper-a-week)
+  - [分布式驿站](https://www.zhihu.com/column/GTDistributed)
+  - [PolarDB-X 强一致分布式事务原理]()
 
+[CockroachDB分布式事务解密(一)](http://www.cockroachchina.cn/?p=976)
 
+[混合逻辑时钟](http://vinllen.com/hun-he-luo-ji-shi-zhong/)
+
+[字节跳动 EB 级 HDFS 实践](https://mp.weixin.qq.com/s/liiplasFnFW0ezc3VWsOHA)
+
+[上海沙龙回顾 | 字节跳动在Spark SQL上的核心优化实践](https://mp.weixin.qq.com/s/su0sMWG_CBv3hpAIXmmo6Q)
+
+[TiDB/TiKV 参考文档资料汇总](https://github.com/pingcap/presentations/blob/master/hackathon-2019/reference-document-of-hackathon-2019.md)
+
+[分布式系统原理](https://www.yuque.com/happyhusky/fbsxt)
+
+## Other
+
+[Colossus PPT](https://research.google.com/pubs/archive/44877.pdf)
+
+[Cluster-Level Storage @ Google - pdsw](http://www.pdsw.org/pdsw-discs17/slides/PDSW-DISCS-Google-Keynote.pdf)
