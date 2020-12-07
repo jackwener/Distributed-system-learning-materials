@@ -146,7 +146,9 @@
 
 [CockroachDB分布式事务解密(一)](http://www.cockroachchina.cn/?p=976)
 
-[混合逻辑时钟](http://vinllen.com/hun-he-luo-ji-shi-zhong/)
+[混合逻辑时钟](http://vinllen.com/hun-he-luo-ji-shi-zhong/)  [MVCC事务机制：混合逻辑时钟](http://www.nosqlnotes.com/technotes/mvcc-hybridclock/)
+
+[DTCC 2019 | 深度解码阿里数据库实现 数据库内核——基于HLC的分布式事务实现深度剖析](https://developer.aliyun.com/article/703552)
 
 [字节跳动 EB 级 HDFS 实践](https://mp.weixin.qq.com/s/liiplasFnFW0ezc3VWsOHA)
 
@@ -155,6 +157,8 @@
 [TiDB/TiKV 参考文档资料汇总](https://github.com/pingcap/presentations/blob/master/hackathon-2019/reference-document-of-hackathon-2019.md)
 
 [分布式系统原理](https://www.yuque.com/happyhusky/fbsxt)
+
+[论文阅读笔记（分布式，虚拟化，机器学习）](https://github.com/dyweb/papers-notebook)
 
 ## Other
 
