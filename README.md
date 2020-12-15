@@ -10,6 +10,8 @@
 
 [CMU 15-440/640, Spring 2016: Distributed Systems](http://www.andrew.cmu.edu/course/15-440/)
 
+[ CMU数据库15-445/645 bilibili](https://www.bilibili.com/video/av85655193)
+
 [15-712 Advanced and Distributed Operating Systems](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15712-s12/www/)
 
 [UIUC Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
@@ -57,6 +59,7 @@
 - [PacificA: Replication in Log-Based Distributed Storage Systems](http://research.microsoft.com:8082/pubs/66814/tr-2008-25.pdf)
 - [Finding a needle in Haystack: Facebook’s photo storage](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
 - [Windows Azure Storage: A Highly Available Cloud Storage Service with Strong Consistency](http://www-bcf.usc.edu/~minlanyu/teach/csci599-fall12/papers/11-calder.pdf)
+- Ceph Paper
 
 ### Databases
 
@@ -159,6 +162,20 @@
 [分布式系统原理](https://www.yuque.com/happyhusky/fbsxt)
 
 [论文阅读笔记（分布式，虚拟化，机器学习）](https://github.com/dyweb/papers-notebook)
+
+[分布式系统前沿技术](https://www.infoq.cn/theme/48)
+
+[群主源码阅读](https://github.com/y123456yz?tab=repositories)
+
+[字节跳动分布式表格存储系统的演进](https://www.infoq.cn/article/dg4xmee5zvyftax0pajf)
+
+[微信自研生产级paxos类库PhxPaxos实现原理介绍](https://mp.weixin.qq.com/s?__biz=MzI4NDMyNTU2Mw==&mid=2247483695&idx=1&sn=91ea422913fc62579e020e941d1d059e&chksm=ebfc62fbdc8bebed551c2a041bb37bcaab836c4b2ca8e575d418f1e24459459c1c16faf70d06)
+
+
+
+单机并行编程理论，体系结构的理论。隔离性的理论
+
+知识体系 + 实践理论结合 + 知识融会贯通
 
 ## Other
 
