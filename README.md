@@ -146,6 +146,7 @@
   - [一周一paper](https://www.zhihu.com/column/one-paper-a-week)
   - [分布式驿站](https://www.zhihu.com/column/GTDistributed)
   - [PolarDB-X 强一致分布式事务原理]()
+  - [分布式，存储笔记](https://www.zhihu.com/column/c_181108752)
 
 [CockroachDB分布式事务解密(一)](http://www.cockroachchina.cn/?p=976)
 
@@ -171,7 +172,9 @@
 
 [微信自研生产级paxos类库PhxPaxos实现原理介绍](https://mp.weixin.qq.com/s?__biz=MzI4NDMyNTU2Mw==&mid=2247483695&idx=1&sn=91ea422913fc62579e020e941d1d059e&chksm=ebfc62fbdc8bebed551c2a041bb37bcaab836c4b2ca8e575d418f1e24459459c1c16faf70d06)
 
+[github collection of a person](https://github.com/hedengcheng/tech/blob/master/distributed/PaxosRaft%20%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%80%E8%87%B4%E6%80%A7%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90%E5%8F%8A%E5%85%B6%E5%9C%A8%E5%AE%9E%E6%88%98%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)
 
+[可靠分布式系统基础 Paxos 的直观解释](http://drmingdrmer.github.io/tech/distributed/2015/11/11/paxos-slide.html?utm_source=com.ticktick.task&utm_medium=social&utm_oi=725766676838092800)
 
 单机并行编程理论，体系结构的理论。隔离性的理论
 
